@@ -1,0 +1,38 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Zank",
+    "email": "jz@thebest.com",
+    "birthDate": "1987-11-29T05:00:00.000Z",
+    "bio": "He's really great.",
+    "profilePictureURL": "assets/mock-data/john-img.jpg",
+    "followerCount": 234
+  },
+  {
+    "firstName": "Cloud",
+    "lastName": "Strife",
+    "email": "c_strife@avalanche.com",
+    "birthDate": "1983-03-09T05:00:00.000Z",
+    "bio": "He's really great.",
+    "profilePictureURL": "assets/mock-data/cloud-img.jpg",
+    "followerCount": 777
+  },
+  {
+    "firstName": "Geralt",
+    "lastName": "of Rivia",
+    "email": "wh1t3_w0lf@witchers.com",
+    "birthDate": "1640-10-16T04:56:02.000Z",
+    "bio": "He's really great.",
+    "profilePictureURL": "assets/mock-data/geralt-img.jpg",
+    "followerCount": 352
+  },
+  {
+    "firstName": "Kvothe",
+    "lastName": "son of Arliden",
+    "email": "six_strings@arcanum.edu",
+    "birthDate": "1202-07-02T04:56:02.000Z",
+    "bio": "He's really great.",
+    "profilePictureURL": "assets/mock-data/kvothe-img.jpg",
+    "followerCount": 1
+  }
+]
